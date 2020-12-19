@@ -11,9 +11,19 @@ We all know that due to Covid-19 pandemic there is an exigency of innovation whi
 <strong>FEATURES :- </strong>
 <ul>
   <li> Dynamic as Well Fully Responsive Website. </li> 
-  <li> Most Famous Dark Theme Used For Both Frontend As Well the User/Doctor Dashboard. </li>
-  <li> There are three user types in this website divided on there Roles 
+  <li> Most Secured Website with Numerous Security Features from externally as well as internally. </li>
+  <li> No Noob coding such as role==1 oe role==0 based login. </li>
+
+  <li> There are three user types in this website divided on there Roles :-
             1.SuperAdmin
             2.Doctor
             3.Patient
   </li>
+   <li> Secured Login as well as Register </li>
+  <li> Doctor/SuperAdmin has different login than Patient </li?
+  <li> Patient Login/Register </li>
+  <li> Patient Can Login/Register Through Google Account </li>
+  <li> Doctors are added by the superadmins(So that no one can one can simple register and Pretend Being Doctor) </li>
+  <li> SuperAdmin can add Different Roles As well </li>
+  
+  
