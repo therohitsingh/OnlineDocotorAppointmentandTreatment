@@ -9,3 +9,11 @@ PROJECT DISCRIPTION :- Its an online Platform where doctor as well as the patien
 We all know that due to Covid-19 pandemic there is an exigency of innovation which could help people to come up against the difficulty.   We must constantly endeavour if we want to succeed. As a consequence we are here with our project . Using this ,  any user can approach a doctor by searching directly his/her name , specialization, clinic's name.  The patients can schedule an  appointment with the respective doctor. The doctor can reschedule it according to his/her convenience  . Have a look at some salient features of this Online Doctor Appointment System.
 
 <strong>FEATURES :- </strong>
+<ul>
+  <li> Dynamic as Well Fully Responsive Website. </li> 
+  <li> Most Famous Dark Theme Used For Both Frontend As Well the User/Doctor Dashboard. </li>
+  <li> There are three user types in this website divided on there Roles 
+            1.SuperAdmin
+            2.Doctor
+            3.Patient
+  </li>
